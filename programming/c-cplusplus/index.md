@@ -15,4 +15,4 @@ breadcrumbText: C/C++
 - [API Reference](api-reference/index.md)
 
 ## Release Notes
-- [Version 1.0](release-notes/c-cpp-1.md)
+- [Version 1.0 Beta](release-notes/c-cpp-1.md)

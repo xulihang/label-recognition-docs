@@ -9,4 +9,4 @@ breadcrumbText: Release Notes
 
 # Dynamsoft Label Recognition C/C++ SDK - Release Notes
 
-- [1.0   (12/10/2020)](c-cpp-1.md#1.0-(12/10/2020))
+- [1.0 Beta   (12/10/2020)](c-cpp-1.md#1.0beta-(12/10/2020))
